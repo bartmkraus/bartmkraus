@@ -1,5 +1,5 @@
 ### Hello there, I'm Bart! 👋
-- I am currently a software/DevOps engineer intern at a [Icetek](https://www.icetek.io/) and I’m learning Docker, Terraform and Go.
+- I am currently a software/DevOps engineer intern at a [Icetek](https://www.icetek.io/) and I’m learning Terraform, Kubernetes and Go.
 
 - 🔭 In my free time, I work on a home budget app to practice DevOps elements.
 
