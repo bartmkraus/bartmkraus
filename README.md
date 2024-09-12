@@ -1,6 +1,6 @@
 ### Hello there, I'm Bart! 👋
 - I am a software/DevOps engineer at [Icetek](https://www.icetek.io/). I am also an active member of [Hackerspace Trójmiasto](https://hs3.pl/) where I help with some really exciting projects which include Hackerspace network infrastructure, PyExplorers (a group of Python enthusiasts) and [Projekt Żeton](https://www.projekt-zeton.pl/).
 
-- I enjoy working on microservices, messaging queues, containers, microservices, and testing. Go, Python, Bash, Docker, Kubernetes, RabbitMQ
+- I have a passion for DevOps, software development and building distributed systems. Go, Python, Bash, Docker, Kubernetes
 
 - 📫 If you're interested in connecting with me please reach out on [LinkedIn](https://www.linkedin.com/in/bartłomiej-kraus-a0913b27a/) and/or via e-mail address: [bkrausguitars@gmail.com](bkrausguitars@gmail.com).
