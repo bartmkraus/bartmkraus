@@ -3,4 +3,4 @@
 
 - I have a passion for DevSecOps, software development and building distributed systems. Go, Python, Bash, Docker, Kubernetes, Linux
 
-- 📫 If you're interested in connecting with me please reach out on [LinkedIn](https://www.linkedin.com/in/bartłomiej-kraus-a0913b27a/) and/or via e-mail address: [bkrausguitars@gmail.com](bkrausguitars@gmail.com).
+- 📫 If you're interested in connecting with me please reach out on [LinkedIn](https://www.linkedin.com/in/bartłomiej-kraus-a0913b27a/) and/or via e-mail address: [bartmkraus@gmail.com](bartmkraus@gmail.com).
